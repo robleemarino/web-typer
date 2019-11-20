@@ -1,0 +1,28 @@
+{
+  "name": "web_typer_pkg",
+  "version": "1.0.0",
+  "description": "A package for web developers that contains some tools, frameworks, utilities, and other programs for accelerating development.",
+  "main": "app.js",
+  "scripts": {
+    "test": "webtypertest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robleemarino/web-typer.git"
+  },
+  "keywords": [
+    "webtyper",
+    "robleemarino"
+  ],
+  "author": "Robert H. Lee Jr.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/robleemarino/web-typer/issues"
+  },
+  "homepage": "https://github.com/robleemarino/web-typer#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
